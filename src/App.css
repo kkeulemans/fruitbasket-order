@@ -1,0 +1,26 @@
+section {
+    border-style: solid;
+    margin: 10px;
+    border-radius: 20px;
+    border-color: deeppink;
+    text-align: center;
+
+}
+
+textarea {
+    display: block;
+}
+fieldset {
+    border-style: none;
+}
+
+body {
+    background-color: palegoldenrod;
+    text-color: #e0206c;
+}
+
+h1 {
+    font-family: 'Poppins';
+    text-color: #e0206c;
+    font-size: 99px
+}
