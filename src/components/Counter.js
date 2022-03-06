@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Counter = ({counter, setCounter, image, fruit}) => {
+const Counter = ({image, fruit, counter, setCounter}) => {
 
     function subtractOne() {
         if (counter > 0) {

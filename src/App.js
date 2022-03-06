@@ -30,8 +30,8 @@ function App() {
         let timeSlot = form.elements['delivery-time-field']
 
         console.log(`Voornaam: ${firstName.value} Achternaam: ${surname.value} Leeftijd:${age.value} 
-        Postcode:${postcode.value}  Bezorgfrequentie: ${deliveryFrequency.value} Tijdvak:${timeSlot.value} Opmerking:${comment.value}
-          Voorwaarden zijn aanvaard:${terms} Aardbeien:${strawberryCounter} Bananen:${bananaCounter} Appels:${appleCounter} Kiwi's:${kiwiCounter}`)
+        Postcode:${postcode.value}  Bezorgfrequentie: ${deliveryFrequency.value} Tijdvak:${timeSlot.value}
+         Opmerking:${comment.value} Voorwaarden zijn aanvaard:${terms} Aardbeien:${strawberryCounter} Bananen:${bananaCounter} Appels:${appleCounter} Kiwi's:${kiwiCounter}`)
     }
 
     return (
